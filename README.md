@@ -310,7 +310,4 @@ LightGBM with a 24-hour look-back window achieves sub-1 dB RMSE, closely reprodu
 
 ---
 
-## Contact
 
-> Submission: michel.salomon@umlp.fr  
-> Deadline: Saturday, June 6, 2026 — 6 PM
