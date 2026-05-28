@@ -5,7 +5,7 @@
 **Program:** Master 1 — LAS (Embedded Computing Systems / IoT)  
 **Course:** Machine Learning for IoT  
 **Supervisor:** Michel Salomon  
-**Deadline:** June 6, 2026  
+
 
 ---
 
