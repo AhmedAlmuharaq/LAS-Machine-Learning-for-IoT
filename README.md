@@ -1,8 +1,8 @@
-# LAS — Machine Learning for IoT
+# LAS - Machine Learning for IoT
 
 **Student:** Ahmed Al-Muharaq  
 **Institution:** Université Marie & Louis Pasteur (UMLP), EIPHI Graduate School  
-**Program:** Master 1 — LAS (Embedded Computing Systems / IoT)  
+**Program:** Master 1 - LAS (Embedded Computing Systems / IoT)  
 **Course:** Machine Learning for IoT  
 **Supervisor:** Michel Salomon  
 
