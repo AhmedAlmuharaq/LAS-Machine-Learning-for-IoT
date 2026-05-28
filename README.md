@@ -34,9 +34,7 @@
 │   ├── Task2_SmartCity_Noise_Prediction.ipynb
 │   └── images/
 │
-└── Presentation/                      ← Course slides
-    ├── README.md
-    └── LAS_Machine_Learning_for_IoT.pptx
+└── README.md
 ```
 
 ---
@@ -284,14 +282,6 @@ Reproduce the ML pipeline from the research paper *"Deep Learning and Gradient B
 
 ### Key Insight
 LightGBM with a 24-hour look-back window achieves sub-1 dB RMSE, closely reproducing the paper's results. The diurnal (24h) noise cycle is reliably captured. The model can serve as an anomaly detector for IoT security — unexpected deviations from predictions indicate potential false data injection attacks.
-
----
-
-## Presentation
-
-> **Folder:** [`Presentation/`](Presentation/)
-
-The course slides (`LAS_Machine_Learning_for_IoT.pptx`) define the program organization, lab and task instructions, and evaluation criteria.
 
 ---
 
