@@ -1,5 +1,7 @@
 # LAS - Machine Learning for IoT
 
+![Complete ML Repository Architecture](images/architecture_overview.png)
+
 **Student:** Ahmed Al-Muharaq  
 **Institution:** Université Marie & Louis Pasteur (UMLP), EIPHI Graduate School  
 **Program:** Master 1 - LAS (Embedded Computing Systems / IoT)  

@@ -1,5 +1,7 @@
 # Lab 1 — Logistic Regression & Evaluation Metrics
 
+![Lab 1 Architecture](images/architecture.png)
+
 **Student:** Ahmed Al-Muharaq  
 **Institution:** Université Marie & Louis Pasteur (UMLP), EIPHI Graduate School  
 **Program:** Master 1 — LAS (Embedded Computing Systems / IoT)  
