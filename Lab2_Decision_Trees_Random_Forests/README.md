@@ -1,4 +1,4 @@
-# Lab 2 — Decision Trees & Random Forests (Regression)
+# Lab 2 - Decision Trees & Random Forests (Regression)
 
 ![Lab 2 Architecture](images/architecture.png)
 
