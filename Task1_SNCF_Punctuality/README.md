@@ -1,4 +1,4 @@
-# Task 1 — SNCF Train Punctuality Classification
+# Task 1 - SNCF Train Punctuality Classification
 
 ![Task 1 Architecture](images/architecture.png)
 
