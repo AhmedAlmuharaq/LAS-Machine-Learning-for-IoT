@@ -1,4 +1,4 @@
-# Task 2 — Smart City Urban Noise Prediction
+# Task 2 - Smart City Urban Noise Prediction
 
 ![Task 2 Architecture](images/architecture.png)
 
