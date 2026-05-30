@@ -1,4 +1,4 @@
-# Lab 1 — Logistic Regression & Evaluation Metrics
+# Lab 1 - Logistic Regression & Evaluation Metrics
 
 ![Lab 1 Architecture](images/architecture.png)
 
